@@ -56,7 +56,7 @@ body{
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-width: 0 5px 0 2px;
+    border-width: 2px 5px 0 0;
   }
   .blue h2, .blue p{
     color: #C4C4C4;
@@ -84,6 +84,6 @@ body{
   footer p{
     font-size: 20px;
     text-align: right;
-    padding-top: 15px 15px 15px 0;
+    padding: 15px 15px 15px 0;
   }
   
